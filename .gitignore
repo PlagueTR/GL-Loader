@@ -1,0 +1,15 @@
+# Binaries for premake5 project
+
+bin/
+bin-int/
+
+# Visual Studio files
+
+**.vcxproj
+**.vcxproj.filters
+
+# Codeblocks files
+
+**.cbp
+**.depend
+**.layout
