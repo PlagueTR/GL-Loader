@@ -13,3 +13,8 @@ bin-int/
 **.cbp
 **.depend
 **.layout
+
+# CodeLite files
+glad.mk
+glad.project
+glad.txt
